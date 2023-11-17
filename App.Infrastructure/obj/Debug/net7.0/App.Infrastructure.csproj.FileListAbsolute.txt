@@ -1,0 +1,34 @@
+C:\Users\SYA\source\repos\App\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+C:\Users\SYA\source\repos\App\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SYA\source\repos\App\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SYA\source\repos\App\App.Infrastructure\bin\Debug\net7.0\App.Application.dll
+C:\Users\SYA\source\repos\App\App.Infrastructure\bin\Debug\net7.0\App.Domain.dll
+C:\Users\SYA\source\repos\App\App.Infrastructure\bin\Debug\net7.0\App.Application.pdb
+C:\Users\SYA\source\repos\App\App.Infrastructure\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SYA\source\repos\App\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll
+D:\Source\VS Projects\App\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+D:\Source\VS Projects\App\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+D:\Source\VS Projects\App\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+D:\Source\VS Projects\App\App.Infrastructure\bin\Debug\net7.0\App.Application.dll
+D:\Source\VS Projects\App\App.Infrastructure\bin\Debug\net7.0\App.Domain.dll
+D:\Source\VS Projects\App\App.Infrastructure\bin\Debug\net7.0\App.Application.pdb
+D:\Source\VS Projects\App\App.Infrastructure\bin\Debug\net7.0\App.Domain.pdb
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.AssemblyReference.cache
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CopyComplete
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+D:\Source\VS Projects\App\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll

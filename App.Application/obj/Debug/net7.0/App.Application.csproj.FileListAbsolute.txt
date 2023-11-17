@@ -1,0 +1,30 @@
+C:\Users\SYA\source\repos\App\App.Application\bin\Debug\net7.0\App.Application.deps.json
+C:\Users\SYA\source\repos\App\App.Application\bin\Debug\net7.0\App.Application.dll
+C:\Users\SYA\source\repos\App\App.Application\bin\Debug\net7.0\App.Application.pdb
+C:\Users\SYA\source\repos\App\App.Application\bin\Debug\net7.0\App.Domain.dll
+C:\Users\SYA\source\repos\App\App.Application\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfo.cs
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.csproj.CopyComplete
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.dll
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\refint\App.Application.dll
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\App.Application.pdb
+C:\Users\SYA\source\repos\App\App.Application\obj\Debug\net7.0\ref\App.Application.dll
+D:\Source\VS Projects\App\App.Application\bin\Debug\net7.0\App.Application.deps.json
+D:\Source\VS Projects\App\App.Application\bin\Debug\net7.0\App.Application.dll
+D:\Source\VS Projects\App\App.Application\bin\Debug\net7.0\App.Application.pdb
+D:\Source\VS Projects\App\App.Application\bin\Debug\net7.0\App.Domain.dll
+D:\Source\VS Projects\App\App.Application\bin\Debug\net7.0\App.Domain.pdb
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.csproj.AssemblyReference.cache
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfoInputs.cache
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfo.cs
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.csproj.CoreCompileInputs.cache
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.csproj.CopyComplete
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.dll
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\refint\App.Application.dll
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\App.Application.pdb
+D:\Source\VS Projects\App\App.Application\obj\Debug\net7.0\ref\App.Application.dll

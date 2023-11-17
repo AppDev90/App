@@ -1,0 +1,186 @@
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Api.exe
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Api.deps.json
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Api.runtimeconfig.json
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Api.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Api.pdb
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Dapper.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Quartz.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Quartz.Extensions.DependencyInjection.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Quartz.Extensions.Hosting.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Application.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Domain.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Application.pdb
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.csproj.AssemblyReference.cache
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfoInputs.cache
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfo.cs
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.csproj.CoreCompileInputs.cache
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.App.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.App.Api.props
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.App.Api.props
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.App.Api.props
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\scopedcss\bundle\App.Api.styles.css
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.csproj.CopyComplete
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.dll
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\refint\App.Api.dll
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.pdb
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\App.Api.genruntimeconfig.cache
+C:\Users\SYA\source\repos\App\App.Api\obj\Debug\net7.0\ref\App.Api.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SYA\source\repos\App\App.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\appsettings.json
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Api.exe
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Api.deps.json
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Api.runtimeconfig.json
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Api.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Api.pdb
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Dapper.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\FluentValidation.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Humanizer.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\MediatR.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Quartz.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Quartz.Extensions.DependencyInjection.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Quartz.Extensions.Hosting.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Application.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Domain.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Infrastructure.dll
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Application.pdb
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Infrastructure.pdb
+D:\Source\VS Projects\App\App.Api\bin\Debug\net7.0\App.Domain.pdb
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.csproj.AssemblyReference.cache
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfoInputs.cache
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfo.cs
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.csproj.CoreCompileInputs.cache
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.App.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.App.Api.props
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.App.Api.props
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.App.Api.props
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\scopedcss\bundle\App.Api.styles.css
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.csproj.CopyComplete
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.dll
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\refint\App.Api.dll
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.pdb
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\App.Api.genruntimeconfig.cache
+D:\Source\VS Projects\App\App.Api\obj\Debug\net7.0\ref\App.Api.dll
