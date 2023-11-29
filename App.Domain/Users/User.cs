@@ -4,6 +4,7 @@ using App.Domain.Abstraction;
 using App.Domain.Roles;
 using App.Domain.Shared;
 using App.Domain.UserRoles;
+using App.Domain.Users.Event;
 
 namespace App.Domain.Users;
 
@@ -36,12 +37,21 @@ public class User : Entity<UserId>
 
     public static Result<User> Create(
         Email email,
-        string passwordHash)
+        string passwordHash,
+        bool isEmailUnique)
     {
+
+        if (!isEmailUnique)
+        {
+            return Result.Failure<User>(UserErrors.EmailIsNotAvailable);
+        }
+
         var user = new User(
             UserId.New(),
             email,
             passwordHash);
+
+        user.RaiseDomainEvent(new UserCreatedDomainEvent(user.Id));
 
         return user;
     }

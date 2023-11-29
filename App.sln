@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{148BA93D-2BE8-4807-9925-5F8ED8ECAE59}"
-	ProjectSection(SolutionItems) = preProject
-		..\Bookify\.gitignore = ..\Bookify\.gitignore
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{F19C7DC5-F51C-44FB-A9B3-4DB3BF992D83}"
 EndProject
@@ -17,6 +14,17 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Infrastructure", "App.Infrastructure\App.Infrastructure.csproj", "{FCC80DEC-752E-4B6B-9F15-10A562AFDBB9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Api", "App.Api\App.Api.csproj", "{F15D9DE0-6C68-4AA9-B0EC-CCBEDF79E8A5}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BC6C9774-499E-48EB-ACC7-C5CDAAA5785D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D945FF5C-7FC1-470A-A864-139D9BFF03AE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Domain.UnitTests", "..\App.Domain.UnitTests\App.Domain.UnitTests.csproj", "{9EDFB858-AAB2-454A-B169-506E7BE618FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Application.Tests", "..\App.Application.Tests\App.Application.Tests.csproj", "{EF2A7441-58CA-4FFB-A17D-13FF62DA4DEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,6 +48,18 @@ Global
 		{F15D9DE0-6C68-4AA9-B0EC-CCBEDF79E8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F15D9DE0-6C68-4AA9-B0EC-CCBEDF79E8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F15D9DE0-6C68-4AA9-B0EC-CCBEDF79E8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6C9774-499E-48EB-ACC7-C5CDAAA5785D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6C9774-499E-48EB-ACC7-C5CDAAA5785D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6C9774-499E-48EB-ACC7-C5CDAAA5785D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6C9774-499E-48EB-ACC7-C5CDAAA5785D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDFB858-AAB2-454A-B169-506E7BE618FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDFB858-AAB2-454A-B169-506E7BE618FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDFB858-AAB2-454A-B169-506E7BE618FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDFB858-AAB2-454A-B169-506E7BE618FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2A7441-58CA-4FFB-A17D-13FF62DA4DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2A7441-58CA-4FFB-A17D-13FF62DA4DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2A7441-58CA-4FFB-A17D-13FF62DA4DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2A7441-58CA-4FFB-A17D-13FF62DA4DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +69,8 @@ Global
 		{818F3441-7B3C-46D7-8EE6-47476A210289} = {148BA93D-2BE8-4807-9925-5F8ED8ECAE59}
 		{FCC80DEC-752E-4B6B-9F15-10A562AFDBB9} = {148BA93D-2BE8-4807-9925-5F8ED8ECAE59}
 		{F15D9DE0-6C68-4AA9-B0EC-CCBEDF79E8A5} = {148BA93D-2BE8-4807-9925-5F8ED8ECAE59}
+		{9EDFB858-AAB2-454A-B169-506E7BE618FA} = {F19C7DC5-F51C-44FB-A9B3-4DB3BF992D83}
+		{EF2A7441-58CA-4FFB-A17D-13FF62DA4DEE} = {F19C7DC5-F51C-44FB-A9B3-4DB3BF992D83}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8CBAF3F-4058-4A7C-B1EF-F182242673E2}

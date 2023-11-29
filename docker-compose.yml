@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  app.api:
+    image: ${DOCKER_REGISTRY-}appapi
+    build:
+      context: .
+      dockerfile: App.Api/Dockerfile
+    depends_on: 
+      - app-db
+
+  app-db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: MsSqlServer_2019
+    user: root
+    environment:
+      - MSSQL_SA_PASSWORD=App@1946
+      - ACCEPT_EULA=1
+    volumes:
+      - ./.containers/database:/var/opt/mssql/data
+    ports:
+      - 1433:1433

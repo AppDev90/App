@@ -104,7 +104,8 @@ public static class SeedDataExtensions
     {
         return User.Create(
             Email.Create("sya@gmail.com").Value,
-            SHA1.Encode("12345@")).Value;
+            SHA1.Encode("12345@"),
+            true).Value;
     }
 
     private static IEnumerable<Permission> GetLocalPermissions()

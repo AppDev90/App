@@ -1,4 +1,5 @@
 ﻿using App.Application.Users.Login;
+using App.Application.Users.Register;
 using App.Domain.Enums;
 using App.Infrastructure.Authentication;
 using MediatR;
@@ -37,8 +38,26 @@ public class UsersController : ControllerBase
         return Ok(tokenResult.Value);
     }
 
+    [AllowAnonymous]
+    [HttpPost("register")]
+    public async Task<IActionResult> Register(
+    RegisterUserRequest request,
+    CancellationToken cancellationToken)
+    {
+        var command = new RegisterUserCommand(request.Email, request.Password);
 
-    [HasPermission(Permission.ReadMember)]
+        var user = await _sender.Send(command, cancellationToken);
+
+        if (user.IsFailure)
+        {
+            return BadRequest(user.Error);
+        }
+
+        return Ok(user.Value);
+    }
+
+
+    [HasPermission(Permission.ReadUser)]
     [HttpGet("userpermission")]
     public async Task<IActionResult> UserPermission()
     {

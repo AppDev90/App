@@ -1,6 +1,7 @@
 ﻿
 using App.Application.Abstractions.Authentication;
 using App.Application.Abstractions.Messaging;
+using App.Application.Utility;
 using App.Domain.Abstraction;
 using App.Domain.Shared;
 using App.Domain.Users;
@@ -33,7 +34,9 @@ public class LoginCommandHandler : ICommandHandler<LoginCommand, string>
             return Result.Failure<string>(emailResult.Error);
         }
 
-        var user = await _userRepository.GetByEmailAsync(emailResult.Value, cancellationToken);
+        var passwordHash = SHA1.Encode(request.Password);
+
+        var user = await _userRepository.GetByCredentialsAsync(emailResult.Value, passwordHash, cancellationToken);
 
         if (user is null)
         {
