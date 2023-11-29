@@ -2,6 +2,8 @@
 .containers/
 bin
 obj
+bin/
+obj/
 
 \# file types<br>
 *.cache<br>
