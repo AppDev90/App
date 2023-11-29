@@ -14,7 +14,7 @@ services:
     container_name: MsSqlServer_2019
     user: root
     environment:
-      - MSSQL_SA_PASSWORD=App@1946
+      - MSSQL_SA_PASSWORD=C@mplex1
       - ACCEPT_EULA=1
     volumes:
       - ./.containers/database:/var/opt/mssql/data
